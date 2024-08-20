@@ -1,0 +1,224 @@
+General Info
+Recently League of Legends came out with a new gamemode called Swarm, which is similar to a Vampire Survivors-esque game.
+The limited-time mode runs from July 17 to August 19. It's meant to support the Anima Squad event inside League.
+There are 9 champions: Jinx, Seraphine, Riven, Yasuo, Illaoi, Aurora, Xayah, Briar, and Leona.
+The coveted "Swarm Conqueror" title is earned by beating Aatrox in Extreme difficulty on each of the 9 champions.
+At the beginning, you can only play Jinx and Seraphine. Progress through the story, starting with the Story difficulty and the Warehouse District map, and complete Objectives (viewable in the lobby) to unlock new characters, weapons, maps, and more.
+Also in the lobby, you can purchase Upgrades using gold you make while playing. These are the key to success. Don’t be discouraged when you lose your first few runs - collect gold, Upgrade, and come back stronger!
+To create a game, simply press the big play button and select Swarm. You'll find yourself in a lobby where you can select your character, map, difficulty, and invite your friends. You can play the game alone or with three other people. The more people play, the more difficult the game.
+Once you've selected your character, it's time to head over to the Map Select screen. Here, you'll be able to choose between four maps and a public matchmaking mode, though only the Warehouse District will be available at the start. The maps are Warehouse District, The Outskirts, Subterranean Lab, and The Beachhead. There are 3 difficulties: Story, Hard, and Extreme.
+Survive 15 minutes against a horde of enemies and you'll face the final boss, which takes around 2-5 minutes.
+
+Anima Power
+Upgrading anima power makes you a pussy. It makes the game much easier, but real gamers will never upgrade it.
+
+Enemies
+As the name suggests, there's no end to enemies in Swarm! At the start of the game, the Primordians you face will be tiny and killed by one attack. As the game progresses, the enemies will become more and more numerous, tougher, and stronger.
+Enemies drop Gold and Experience Orbs. Be diligent about collecting Experience Orbs in order to upgrade your Passives and Weapons so you're not caught off guard when the fights start getting tougher.
+Every so often, you'll see a normal looking Primordian who is larger and has a glow. These are Elites. They'll be a lot tankier but have the expected behaviour of their teeny selves. Elites will drop Access Cards, which grant a randomised Passive or Weapon upgrade. If one of your Weapons is at rank 5, Access Cards will evolve that Weapon.
+Unlike Elites, Mini Bosses are distinctive and large Primordians with Health Bars and unique attacks. The first Mini Boss you'll see is a large Primordian Malphite. His unique attack will trigger when you're close to him. The boss will start charging up an area-of-effect attack that deals massive damage and knocks you up. Like Elites, Mini Bosses drop Access Cards when they are slain.
+Each map has its own big boss. The first boss you'll face is Primordian Rek'Sai in the Warehouse District. As expected, these bosses are incredibly tough. They will spawn on the 15th minute mark and the game will last until you defeat them. When you do, your run will officially be a success, and you’ll unlock the next map.
+The other bosses are:
+- Primordian Briar - In the Outskirts
+- Primordian Bel'Veth - In the Subterranean Lab
+- Primordian Aatrox - At the Beachhead. Primordian Aatrox is a two-phase boss fight.
+
+Yuumi Quests
+At random times in the game, Yuumi will announce a mission that, once completed, will give the user(s) an Augment. Each mission differs, ranging from destroying objects to hiding and kicking a ball- there are quite a few different random missions. To start a mission, you need to step on the spire that spawns. By checking the mini-map, you can see the location of it.
+The Yuumi quests are Nothing But Net, Anti-Antiques, That Darn Yarn, Catch The Chumper, Box Hoarding, Bounce The Beach Ball, Race To The Finish, Marathon, and Laser Chase.
+Nothing But Net: This mission is quite the funny one, but it can also be quite frustrating depending on when you get this. It if it is early in the game when there are not a lot of enemies, then it can be easier, but when there are a lot of enemies, it can be hard.
+For this mission, you need to kick one of the balls into a “goal” area. After successfully kicking one of the balls into the “nets” you will complete the mission.
+Anti-Antiques: For this mission, you just need to destroy the vases that randomly spawn nearby. As long as you destroy them all, you will get the reward. To make this mission easier, you can press C on your keyboard so you can aim your attacks to quickly destroy them.
+That Darn Yarn: For this mission, you have to roll the ball of yarn a certain distance. This is typical of a cat as they love to play with yarn, balls and really anything squishy and that can roll. This one is another simple one, and if you can run over the enemies at the same time, then you’ll complete this mission quickly. This is another mission that is simple in the early stages of the game, but it is harder when there are more enemies because you need to reposition.
+Catch The Chumper: This one is really simple! All you need to do is destroy the mini-boss(es). After doing so, you will gain a ton of gold and more rewards. To make this mission a bit easier, press C on your keyboard and aim your attacks directly at the mini-boss.
+Box Hoarding: For this mission, you just need to hide in each of the boxes, and then once inside the box, reach a final destination. This mission is really easy, and you just need to follow the instructions and do it in the right time zone.
+Bounce The Beach Ball: This mission is probably one of the worst and hardest missions in my honest opinion. The reason for this is that you have to adjust your positioning to ensure you are under the ball when it lands. The issue with this is that you can be put in a poor position, and sometimes, if you’re close to an objective, it will bounce over the wall, and you’ll be unable to reach it in time- resulting in you failing the mission. All-in-all, this one is easier when you’re in the open and it is not a late round.
+Race To The Finish: I’m not going to go too overboard on this one. You just need to reach the end zone in time. It is really easy to to complete- just adjust your pathing.
+Marathon: Marathon is another simple mission, but it can be a bit damaging in the later rounds if there are a lot of enemies as you have to run from one point to another. In the early game, it is super easy but a bit risky depending on your level and your weapons/projectiles.
+Laser Chase: Yuumi wouldn’t be a cat without a laser, and for this mission, you need to follow a laser around for a short period of time. After following its pattern a few times, you’ll gain the upgrade!
+
+Bel'veth Trials
+These are challenges that you start by staying in the red circle, rewarding you with a ton of XP and an Access Card if you complete the quest. Some of them are manageable like the vision clouding or a boss (Crusher, Spidershot) spawning on you. Seahorse boss spawning is kinda hard. Some of them are literally 'fail this or you lose the game' like the one that requires you to stay in the circle with the heavy mobs constantly spawning around you, or the Squad Shrinker one that makes you take way more damage.
+
+Quick Guide
+Hankering to get the action started? Then let’s quickly run through the basics of Swarm.
+You control your character with WASD and can toggle auto-aim or cursor-aim by pressing C.
+Each character has a unique kit - a passive, two Abilities (E and R), and one Weapon that no other character can acquire.
+You can get up to four other weapons in each game, and three Passives - flat stat increases like increased Damage or Health. As you progress through the story, more Passive slots become available.
+Each Weapon has a Passive counterpart it needs to evolve - become a stronger version of itself. Prioritise selecting your favourite weapons and then taking the specific Passives you need to evolve them. For example, Jinx’s Meow Meow requires the “Ability Haste” Passive and Seraphine’s Sound Wave requires the “Projectile Count” Passive to evolve.
+
+Leveling
+So, I’m assuming you have five rerolls from doing the quests and have upgraded every character upgrade except for Anima, as that has 100 upgrades.
+In Swarm, you level up when you pick up XP orbs. However, be careful with the yellow orb at the beginning of the game; it can level you twice, but the game glitches and only gives you one upgrade. RNG can be quite harsh, but from the hundreds of games I’ve played, you really only need one reroll to save yourself from a particularly bad upgrade selection.
+Rerolling in the early game is crucial for getting new weapons and shrinking your upgrade pool. Passive upgrades are marginal compared to the massive increases in DPS through weapons in the early game, so prioritize those first. Also, for a specific weapon build, make sure to always upgrade a new weapon over a new passive. The number of weapons greatly outnumbers the number of passives, so the chance of seeing any particular weapon is smaller than any passive you need.
+Here’s how I optimize my upgrades to consistently get the build I want:
+First Priority: Upgrade your default weapon. Evolving this can make or break your run.
+Second Priority: Upgrade a new weapon. This is important because of the reasons mentioned earlier.
+Third Priority: Upgrade a new passive just to reduce the RNG pool. If I have more than 3 rerolls, I always use one to see if I can get a new weapon or passive since filling all of your weapon and passive slots is crucial for consistently getting evolutions.
+Fourth Priority: Upgrade an existing weapon.
+Last Priority: Upgrade an existing passive. You should avoid upgrading passives at any cost. I even reroll for weapon upgrades if I am confident about my run since you only need one passive to evolve a weapon.
+Anyways, let’s talk about weapons.
+
+Weapons
+I’ll be discussing each weapon option from best to worst. In most of my games, I’ve had great success with Iceblast Armor, Uwu Blasters, Lioness Lament, and Battle Bunny Crossbow. The first three weapons are key to any winning game.
+Iceblast Armor is crucial for survivability since it lets you tank a free hit while freezing things around you. When the Seahorse boss spawns around 3 minutes, it can be quite challenging if you’re unprepared. Having Iceblast Armor allows you to get a free hit while dealing with it. You don’t even need to waste a passive slot on armor as Iceblast Armor is effective even without evolution.
+Uwu Blasters offer the highest single-target DPS upgrade in the game, making them essential for fighting the boss Aatrox. They are also a good counter to the bomb wave that spawns at 7:30, which is difficult to handle on most champions.
+I’m a big fan of Lioness Lament as it provides good single-target ranged damage when dealing with Aatrox, making it the second-best option after Uwu Blasters.
+Battle Bunny Crossbow is decent, especially for close-quarters damage with the Aatrox pillars. However, the last slot can honestly be anything; it's not as crucial against the boss.
+Gatling Bunny Guns are a good zoning option for herds of monsters with decent ranged damage. They are useful if you're struggling with bomb waves, like with Riven. However, their evolution-requiring duration makes them less optimal for other champions.
+Vortex Glove is another good close-quarters option similar to the Crossbow but a bit finicky to use. It's effective against the Aatrox pillars and can replace the Crossbow if your champion benefits from health regeneration.
+Blade O’Rang is a decent ranged attack, but most champions need move speed. It's also quite finicky to use.
+Bunny Megablast is a good clear weapon if you’re struggling against waves, but it’s not very useful against the boss.
+Annihilator is an okay option if you’re struggling with waves. However, it falls short against the boss due to its lack of DPS and over-reliance.
+Other weapons are generally ineffective:
+Ani-mines need area size which does not benefit you against the boss.
+Sea Mine does negative damage against the boss.
+Cyclone does minimal damage.
+Batblades are too finicky.
+Paw Print Poisoner does minimal damage.
+Radiant Field is ineffective against bosses.
+Statikk Sword, Tibbers, and YuumiBot are disappointing.
+Train is an eyesore.
+
+Damage
+From my testing, damage is multiplicative among new upgrades and additive among old ones. This means that if you have upgrades like Damage and Card Collector, they will multiply on top of each other, while getting more damage ups and cards only increase the existing damage multiplier.
+
+Passives
+Passive upgrades should generally depend on what your basic weapon scales with. For example, Briar benefits from lifesteal based on health, Leona benefits from damage based on armor, and Riven benefits from shield based on health.
+However, some passive upgrades are more valuable than others:
+Ability Haste tends to be the best since it upgrades the two strongest boss-killing items in the game while providing good cooldown refresh.
+Damage is generally more substantial than Crit. For example, if you deal 100 damage with a 25% crit chance, your expected damage is 119. With a Damage upgrade, this becomes 131, whereas Crit upgrades make it 124. Mathematically, Damage upgrades provide double the increase compared to Crit upgrades. Even with a maximum crit of 80%, Damage still outperforms Crit.
+Projectiles are generally always good for damage, though their effectiveness slightly decreases as you upgrade.
+Movespeed is generally better than Armor since extra mobility for avoiding attacks is more beneficial than reduced damage, especially against the boss.
+Health is less valuable compared to Armor without the prospect of evolution, so avoid it unless it complements your champion build.
+Other upgrades are mostly ineffective. Duration can sometimes be useful for champions like Riven, Briar, or Illaoi. Experience points are generally not worth focusing on since they benefit you long-term while you need level upgrades in the short term to handle waves.
+
+Warehouse District
+You will find the Healing Fountain in the Warehouse District. You will find it near your spawn point and then again in the middle of the map.
+When you or your allies step into the Fountain’s AoE, you will be completely healed. However, after using it the fountain will recharge over a few minutes.
+
+The Outskirts
+In The Outskirts map, the Obelisk of the region plays the role of a large Ion Cannon. Every now an then a Fuel Cell will appear on the map.
+If you pick it up and take it to the cannon, it will gain some charge. Once the charge bar fills ip it will then fire a laser blast which will deal massive AoE damage to enemies.
+After firing the cannon will lose all its charge and you will need to once again start acquiring the Fuel Cell that appears on the map.
+
+Subterranean Lab
+In the Subterranean Lab, you will find two Freeze Bombs. One is right in the middle of the map, the other is to the bottom right. 
+To use the bombs, you will need to stand on the platform for some time. Te bomb will then explode stunning enemies around in a large AoE. The bombs will then take some time to recharge. This map is hard pre-boss!
+
+The Beachhead
+In The Beachhead map, you will find Miss Fortune as an NPC on the left side of the map, who is going around killing enemies. Every now and then she will use her Ultimate attack (quite like Bullet Time). You can stick close to her and she will wipe out most of the enemy for you.
+There are also asteroids that occasionally fall on the right side of the map, damaging enemies. Staying near these can help as well.
+Here's a breakdown of key moments and timings for the Beachhead map:
+1:30 - Elite enemy spawns
+2:15 - Seahorse boss appears
+6:45 - 8:00 - Bats wave
+7:30 - 8:15 - Bombs wave
+8:15 - Boss rush begins
+11:15 - Boss rush continues
+14:30 - Bomb wave
+1:10 - First Miss Fortune (MF) Box
+4:00 - First Bel'veth quest (approximate)
+2:15 - First Yuumi quest (approximate)
+
+Aatrox Boss Mechanics
+phase 1 should be a relatively easy "dodge his Q1/Q2/Q3 and DPS" fight, and even if you do get hit, you should not be in any immediate danger
+phase 2 varies in difficulty depending on the character, but in general, during the times where the swords are NOT flying across the screen. try to fight Aatrox in the TOP RIGHT corner of the map. This enables you to kite DOWN & LEFT when the swords ARE flying across the screen, which makes them much easier to dodge as you are moving in the same direction instead of head-on
+for "tank" champs you want stay close to him so that you can dodge the knockups by moving behind him to DPS while tanking sword projectiles; you cannot kite like the ranged champs because you may not have enough DPS to kill him
+for "ranged" champs you can gamble standing inbetween the knockups to maximize DPS in the hopes of good sword projectile RNG, but I would play it safe so that you don't lose your run and your sanity by just focusing on solely dodging during this phase and waiting for him to Q1/Q2/Q3 to safely DPS as you should have the damage for it
+getting hit by one knockup can cause you to get hit by too many swords to survive, especially on the squishier champs. If you ever do get hit by the knockup, just focus on dodging the pattern and buy time to HP regen and for Iceblast Armor CD
+do not ego the Aatrox bro has hands
+
+Aatrox General Guide
+Get HP Regen + Armor to be able to tank hits and evolve Cyclonic Slicers + Iceblast Armor.
+Focus your remaining passives in the order Ability Haste > Projectile/Move Speed/HP/EXP/Duration/Pickup > Critical Chance > Damage > Area Size.
+Dodging knockup + projectile swords >>> DPS if not playing Leona/Briar/Riven.
+During the times where the swords are NOT flying across the screen. try to fight Aatrox in the TOP RIGHT corner of the map. This enables you to kite DOWN & LEFT when the swords ARE flying across the screen, which makes them much easier to dodge as you are moving in the same directions as them.
+Don't be a fool and get greedy, save your time and sanity :D
+
+Augment Tier List
+S - Cross Country, Bullet Mania, Ramming Runner
+These are must picks if you see them and they are relevant to you. Ramming Runner gets more powerful as you get more anima power, so the closer you get to 100 anima power, the higher I would rate Ramming Runner.
+Cross Country as your first augment should be a guaranteed win, given that every character can use 2/3 stats (HP and Damage). If you can also use the area size, I would take this over anything else even if you would use the other augments better. Ramming Runner turns Riven into a Freight Train, but she kind of already does that so, cool!
+A - Circle of Stats, Experienced Fighter, Juggernaut, Ultimate Speed-Up, Uptime Upgrade
+These are very good, because they have strict upsides and usually make your life way easier. Circle of stats has a bit of variance to it, but planning your ability usage around the variance can make this extremely potent. In my opinion, it's the strongest S-tier.
+Juggernaut is a very close second since Armor is a mandatory upgrade on every character. Getting a free 25+% damage and getting quite a bit tankier is very nice. Experienced Fighter is pretty good since more XP is more better, but the only characters I would highly prioritize it on are Riven and Aurora since they also highly value the movement speed.
+B - Armor Up, Card Collector, Elite Bomber, Gathering Speed, Larger than Life, Long Range, Mission Critical, Pescatarian, Point Blank, Spray and Pray, With Haste, Pick-Me-Up
+These all either only give one stat or are only situationally good. Mission Critical is a massive damage boost on Yasuo, but not many other characters can slot crit into their builds.
+Armor Up is great on Illaoi, Briar, and Leona, but pretty lackluster on everyone else. Point Blank and Long Range are good, but there are cards that give much more than a 30% damage boost, and it's non-conditional.
+Gathering Speed is great on Aurora and Riven, but not super useful on many other characters. Card Collector is a huge damage boost early, but pretty mediocre if you get it third. Larger than life is one of the better cards but only once you've started building anima power. Taking a reduction in movement speed is very detrimental if you're only operating at base 100% movement speed since there are many enemies you just can't outmaneuver.
+Spray and Pray is okay, but always strictly worse than Bullet Mania and Pescatarian is okay early game and VERY good if you're both playing Leona and have the Regenerative Tissue Augment. Elite Bomber is amazing early when killing elites is pretty hard, but late game it doesn't do anything since you shouldn't have trouble killing anything.
+Pick-Me-Up is good. At worst, it's 15% bonus xp which is a little weak for an augment, but it also usually collects more xp than you would've gotten on your own, so it's almost certainly more than that.
+C - Bite Sized, Celebration, Critical Expansion, Death and Taxes, Ebb and Flow, Emotional Support Pet, Glass Cannon, Heavy Hitter, Hoarder, Immobile Immolation, Regenerative Tissue, Size Scrambler
+These either all have downsides, are extremely niche, or are straight-up bad. Bite Sized, Ebb and Flow, Glass Cannon, Heavy Hitter, Immobile Immolation, and Size Scrambler all come with downsides, so I would stay far away from them even if the good should outweigh the bad.
+Celebration requires you to have completed the majority of content available and also isn't very powerful unless you have Pick-Me-Up (you can plan burst around your Pick-Me-Up timing). Critical Expansion is good in theory, but the only two characters that can rely sit at max stacks are Yasuo and Jinx and neither of them care about area size.
+Death and Taxes helps your out-of-game progression (which you shouldn't care about anymore if you're fighting Extreme Aatrox). Emotional Support Pet only works on Illaoi tentacles (which is a meaningful damage increase), Tibbers (which doesn't work), and YuumiBot (which is probably bad).
+Hoarder and Regenerative Tissue are pretty minor sustain. However, Hoarder does have pretty good upside if you're an early-game player who regularly takes death and taxes for the out-of-game progression.
+D - Metabolic Overdrive
+I'm pretty sure this is worthless BUT it might give Leona net area size, if it does then it's actually very funny and probably okay on Story Mode and Hard Mode. Your chances of getting one-shot are just too high to take this but you can do a challenge run where you go Metabolic, Bite Sized, and Glass Cannon and try to survive. My guess is that it's literally impossible, but who knows.
+
+Riven
+Riven is the easiest champion in the game, rated at a 1/5 difficulty. Although she can be tricky to learn and her early game is tough, once you reach the mid or end game, her substantial shield makes health concerns minimal. Her passive grants additional shield based on damage dealt, so use your ultimate and shockwaves to build up your shield before engaging. Against Aatrox, you can overpower him with persistent attacks. Be cautious during the bomb wave at 7:30 due to Riven’s poor range; high levels on Uwu Blaster are essential here.
+For optimal performance:
+Build projectiles to maximize ultimate damage and duration.
+Consider swapping health and armor for ability haste and damage, as the late-game shield compensates for lost armor and health. Even though Riven's basic abilities don't benefit from haste, it reduces your ultimate's cooldown.
+
+Jinx
+Jinx is a high-damage champion that's easy to learn and use, with strong early-game abilities and effective late-game default weapons. Rated 1-star difficulty, Jinx should be your first choice for Extreme Beachhead. Despite lacking dodge abilities, her speed is sufficient to evade Aatrox's attacks. For your initial games, boost movespeed to better handle Aatrox’s attacks.
+
+Xayah
+Rated 2-star difficulty, Xayah offers superior single-target damage compared to Jinx but may struggle with crowds. Her early game is powerful, allowing you to kill elites and root the Seahorse. However, luck with early evolutions is crucial, and she struggles in Belveth trials due to crowd issues.
+For better performance:
+Use her feathers and prioritize movement speed over duration for better survivability.
+Against Aatrox, position yourself on top of him to maximize arrow hits and save your ult for dodging.
+
+Leona
+Leona is rated 4/5 difficulty and can be quite frustrating due to low damage and speed. Her survivability is excellent, allowing you to tank waves effectively, but fighting Aatrox can be tedious.
+For an improved experience:
+Max out movespeed to avoid Aatrox’s attacks and consider adding health regeneration as insurance.
+Replace Iceblast Armor with Battle Bunny Crossbow for more DPS and faster pillar clearing.
+Leona took me four days to beat, so be prepared for a learning curve. Standing close to Aatrox during attacks helps maximize damage.
+
+Aurora
+Aurora is also rated 4/5 difficulty. Her wave clear is challenging early on, and her abilities are often less useful. Use her E to escape dangerous situations and avoid using her ultimate unless necessary for Yuumi quests or Belveth trials.
+Recommendations:
+Focus on dealing damage to hexed enemies with her passive.
+Target new enemies to apply the hex instead of the same ones.
+Consider taking Annihilator or Crossbow for better Aatrox damage, and use duration to extend the effectiveness of your shots. Crit may also be beneficial for fighting the boss.
+
+Illaoi
+Illaoi is the hardest champion to solo Beachhead with, rated at 5/5 difficulty. Her default weapon and E ability are finicky and deal minimal damage. Use her E frequently to spawn tentacles, and stay near them for health regeneration.
+For optimal performance:
+Prioritize survival over damage against the boss.
+Health regeneration is useful, but crit may be better for boss encounters.
+Save your ultimate for key objectives and be prepared for a challenging fight.
+
+Briar
+We’ve marked Briar as a B-tier champion. We could put her as a C-tier champion, but she is probably the most successful champion to play on the third map. Due to this, she can be quite useful, but outside of that she isn’t that strong.
+Here are our recommendations for the best weapons for Briar.
+Briar’s Weapon. Upgrading your champion’s weapon for extra damage is always a good option.
+Ani-Mines. Drops mines as you move around the map.
+Anti-Shark Sea Mine. Explosives that bounce between enemies. Good in late game as it can continue bouncing for a while.
+Cyclonic Slicers. Deals AOE damage that can also provide you with protection by knocking back enemies.
+Statikk Sword. Stattik Sword is one of the best weapons in the game. It deals damage to multiple enemies at once, which helps clear the enemies.
+To get these weapon upgrades, you need to get Ability Haste, Area Size, Critical Chance, Damage, Health Regeneration, and Maximum Health.
+
+Yasuo
+Admittedly, Yasuo is not the strongest early-game champion, but once you have some levels under your belt, he can be extremely strong. Just like Dory, make sure you’re always on the move to fully maximize your Tornados in-game!
+Here are our recommendations for the best weapons for Yasuo.
+Yasuo’s Weapon. Upgrading your champion’s weapon for extra damage is always a good option.
+Ani-Mines. Drops mines as you move around the map. Yasuo needs to move around to become empowered, so these two go hand in hand.
+Bunny Crossbow. A potent weapon that helps to deal damage from enemies who are far away. It needs to be unlocked though.
+Cyclonic Slicers. Deals AOE damage that can also provide you with protection by knocking back enemies.
+Echoing Batblades. This weapon bounces of the walls and hits enemies. It’s good on Yasuo and it can help to kill enemies.
+To get these weapon upgrades, you need to get Ability Haste, Area Size, Critical Chance, Damage, Health Regeneration, and Projectiles.
+
+Seraphine
+Seraphine can be one of the best utility champions in Swarm as her E ability is a shield. In the late game when you are grouping, you can constantly use your E to shield your allies and keep them alive. Having multiple Seraphines and a carry is really good!
+Here are our recommendations for the best weapons for Seraphine.
+Seraphine’s Weapon. It is always a good option to upgrade your champion’s weapon for extra damage.
+Cyclone Slicers. Deals AOE damage that can also provide you with protection by knocking back enemies.
+Iceblast Armor. A strong AOE weapon that will help keep you and your allies alive.
+Radiant Field. It provides nearby damage to help you when you get into the melee range of the enemies.
+Vortex Glove. Vortex Glove deals AOE damage to enemies. It helps to deal damage to enemies from afar.
+To get these weapon upgrades, you need to get Ability Haste, Armor, Damage, Health Regeneration, Max Health, and Projectiles.
