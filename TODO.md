@@ -4,9 +4,6 @@ This list will evolve as the bot progresses.
 
 ### Today
 
-- [ ] Setup TypeScript, ESLint, and Prettier following https://typescript-eslint.io/getting-started/
-- [ ] Setup testing and CI / CD with Github and Vitest following https://vitest.dev/
-- [ ] Cleanup/move repository from Heroku to Github, then deploy to Heroku
 - [ ] Try persistent, multi-agent paradigms in LangChain
 - [ ] Try persistent, multi-agent paradigms using other tools
 
@@ -40,45 +37,51 @@ This list will evolve as the bot progresses.
 
 ### Basics
 
-- [X] Initial bot setup, texting, commands, etc (didn't have a todo list in the beginning)
-- [X] Encourage the bot to send many more messages than 1 or 2
-- [X] Emulate work and sleep times, for realism and also to avoid distractions
-- [X] Try to implement reasoning skills but realize that it's kinda not very good
-- [X] Implement a period update to allow Bob to initiate its own messages
-- [X] Make the bot send messages unprompted after long, random delays
-- [X] Consider whether or not to migrate to Python (Answer: No, this is good.)
-- [X] Implement simple TTS
-- [X] Switch to openrouter api
-- [X] Create a small eval suite for models
-- [X] Test top roleplay rated cheap models
-- [X] Switch to an uncensored model using OpenRouter
-- [X] Change Bob's status when working or sleeping
-- [X] Make a bare bones version of Bob (text only) for ease of testing and development
+- [x] Initial bot setup, texting, commands, etc (didn't have a todo list in the beginning)
+- [x] Encourage the bot to send many more messages than 1 or 2
+- [x] Emulate work and sleep times, for realism and also to avoid distractions
+- [x] Try to implement reasoning skills but realize that it's kinda not very good
+- [x] Implement a period update to allow Bob to initiate its own messages
+- [x] Make the bot send messages unprompted after long, random delays
+- [x] Implement simple TTS
+- [x] Switch to openrouter api
+- [x] Create a small eval suite for models
+- [x] Test top roleplay rated cheap models
+- [x] Switch to an uncensored model using OpenRouter
+- [x] Change Bob's status when working or sleeping
+- [x] Make a bare bones version of Bob (text only) for ease of testing and development
 
 ### Advanced Text
 
-- [X] Try out Langchain with JS, see how it works
-- [X] Begin looking into short and long term memory
-- [X] Implement a RAG system using LangChain, embeddings, lookup queries, and a vector store
-- [X] Try out LangChain tool (function) calling
-- [X] Integrate an online search engine into bare bones Bob
-- [X] Try other forms of conversational memory (apart from just a buffer)
+- [x] Try out Langchain with JS, see how it works
+- [x] Begin looking into short and long term memory
+- [x] Implement a RAG system using LangChain, embeddings, lookup queries, and a vector store
+- [x] Try out LangChain tool (function) calling
+- [x] Integrate an online search engine into bare bones Bob
+- [x] Try other forms of conversational memory (apart from just a buffer)
 
 ### Multimodal
 
-- [X] Allow bob to see image attachments without throwing errors for invalid images or other attachments
-- [X] Feed images into an image-to-text tool, or try a multi-modal model
+- [x] Allow bob to see image attachments without throwing errors for invalid images or other attachments
+- [x] Feed images into an image-to-text tool, or try a multi-modal model
+
+### Admin
+
+- [x] Consider whether or not to migrate to Python (Answer: No, this is good.)
+- [x] Setup TypeScript, ESLint, and Prettier following https://typescript-eslint.io/getting-started/
+- [x] Setup testing and CI / CD with Github and Vitest following https://vitest.dev/
+- [x] Cleanup/move repository from Heroku to Github, then deploy to Heroku
 
 ## Milestones and Capstones
 
 ### Text
 
-- [X] Have Bob send a hello world message in Discord (7/13/24)
-- [X] Hold a decently intelligble conversation with someone (7/13/24)
-- [X] Demonstrate flexibility by playing 20 questions (7/14/24)
-- [X] Demonstrate emerging reasoning skills by identifying League champs (7/15/24)
+- [x] Have Bob send a hello world message in Discord (7/13/24)
+- [x] Hold a decently intelligble conversation with someone (7/13/24)
+- [x] Demonstrate flexibility by playing 20 questions (7/14/24)
+- [x] Demonstrate emerging reasoning skills by identifying League champs (7/15/24)
 - [ ] Demonstrate improved reasoning skills by playing Jeopardy decently
-- [X] Recognize and be able to vaguely discuss images (8/18/24)
+- [x] Recognize and be able to vaguely discuss images (8/18/24)
 - [ ] Send multiple messages at once, or send no messages when appropriate in a non-hacky way
 - [ ] Initiate a DM or group chat conversation after being inactive for a while
 - [ ] Remember details about people from a long time ago, say >50 messages
@@ -89,8 +92,8 @@ This list will evolve as the bot progresses.
 
 ### Voice
 
-- [X] Join voice chat and play some music (7/15/24)
-- [X] Be able to respond intelligbly to someone talking in voice chat (7/18/24)
+- [x] Join voice chat and play some music (7/15/24)
+- [x] Be able to respond intelligbly to someone talking in voice chat (7/18/24)
 - [ ] Respond in a more human-like voice
 - [ ] Generate a response in near real-time, quick enough to not be awkward
 - [ ] Integrate text chat capabilities (memory, emotions, reasoning) into voice chat

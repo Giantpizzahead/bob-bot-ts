@@ -7,12 +7,14 @@ hi i am bob :D
 ## Setup
 
 Installation:
+
 ```sh
 git clone https://github.com/Giantpizzahead/bob-bot.git
 npm i
 ```
 
 Environment variables (some required, some optional):
+
 ```text
 DISCORD_TOKEN = Discord bot token.
 DISCORD_CHANNELS = A list of channel ID strings to talk in. Ex: ['123', '456']

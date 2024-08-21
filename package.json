@@ -5,8 +5,11 @@
   "scripts": {
     "lint": "npx eslint",
     "compile": "npx tsc",
+    "format": "npx prettier . --write",
+    "docs": "npx typedoc --out docs src/hi.ts",
+    "build": "npm run format && npm run lint && npm run compile && npm run docs",
     "start": "npx tsc && node dist/index.js",
-    "test": "vitest"
+    "test": "npx prettier . --check && echo 'Linting...' && npx eslint --quiet && npx vitest run"
   },
   "keywords": [],
   "author": "",
@@ -38,8 +41,13 @@
     "@types/eslint__js": "^8.42.3",
     "eslint": "^9.9.0",
     "globals": "^15.9.0",
+    "prettier": "^3.3.3",
+    "typedoc": "^0.26.6",
     "typescript": "^5.5.4",
     "typescript-eslint": "^8.2.0",
     "vitest": "^2.0.5"
+  },
+  "prettier": {
+    "printWidth": 120
   }
 }
