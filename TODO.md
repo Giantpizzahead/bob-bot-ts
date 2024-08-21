@@ -4,7 +4,9 @@ This list will evolve as the bot progresses.
 
 ### Today
 
-- [ ] Cleanup/move repository from Heroku to Github
+- [ ] Setup TypeScript, ESLint, and Prettier following https://typescript-eslint.io/getting-started/
+- [ ] Setup testing and CI / CD with Github and Vitest following https://vitest.dev/
+- [ ] Cleanup/move repository from Heroku to Github, then deploy to Heroku
 - [ ] Try persistent, multi-agent paradigms in LangChain
 - [ ] Try persistent, multi-agent paradigms using other tools
 
