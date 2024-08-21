@@ -6,11 +6,13 @@
     "lint": "npx eslint",
     "compile": "npx tsc",
     "format": "npx prettier . --write",
-    "docs": "npx typedoc --out docs src/hi.ts",
+    "docs": "npx typedoc --out docs src/index.js",
     "build": "npm run format && npm run lint && npm run compile && npm run docs",
     "start": "npx tsc && node dist/index.js",
-    "test": "npx prettier . --check && echo 'Linting...' && npx eslint --quiet && npx vitest run"
+    "test": "npx prettier . --check && echo 'Linting...' && npx eslint --quiet && npx vitest run",
+    "script": "npx tsc && node dist/test_langgraph.js"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -19,6 +21,7 @@
     "@discordjs/opus": "^0.9.0",
     "@discordjs/voice": "^0.17.0",
     "@langchain/community": "^0.2.28",
+    "@langchain/langgraph": "^0.0.34",
     "@langchain/openai": "^0.2.7",
     "@supabase/supabase-js": "^2.45.1",
     "axios": "^1.7.4",
@@ -34,7 +37,8 @@
     "openai": "^4.56.0",
     "prism-media": "^2.0.0-alpha.0",
     "youtube-transcript": "^1.2.1",
-    "youtubei.js": "^9.4.0"
+    "youtubei.js": "^9.4.0",
+    "typescript": "^5.5.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
@@ -43,7 +47,6 @@
     "globals": "^15.9.0",
     "prettier": "^3.3.3",
     "typedoc": "^0.26.6",
-    "typescript": "^5.5.4",
     "typescript-eslint": "^8.2.0",
     "vitest": "^2.0.5"
   },

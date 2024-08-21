@@ -4,7 +4,6 @@ This list will evolve as the bot progresses.
 
 ### Today
 
-- [ ] Try persistent, multi-agent paradigms in LangChain
 - [ ] Try persistent, multi-agent paradigms using other tools
 
 ### Todo
@@ -59,6 +58,10 @@ This list will evolve as the bot progresses.
 - [x] Try out LangChain tool (function) calling
 - [x] Integrate an online search engine into bare bones Bob
 - [x] Try other forms of conversational memory (apart from just a buffer)
+
+### Multi-agent
+
+- [x] Try persistent, multi-agent paradigms in LangGraph
 
 ### Multimodal
 

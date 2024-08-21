@@ -96,7 +96,7 @@ const fetchWebpageTool = tool(
     const result = await browser.invoke(`"${url}","${prompt}"`);
     console.log(result);
     const splitLoc = result.indexOf("### Relevant Links");
-    sendDiscordMessage(`-> ${result.substring(0, splitLoc)}`);
+    // sendDiscordMessage(`-> ${result.substring(0, splitLoc)}`);
     return result;
   },
   {
@@ -116,20 +116,42 @@ const fetchYouTubeSchema = z.object({
   language: z.string().optional().describe("The language code for the transcript. Defaults to 'en'."),
 });
 
+/**
+ * Extracts the videoId from a YouTube video, livestream, or short URL.
+ * Adapted from LangChain's YoutubeLoader.
+ * @param url The URL of the YouTube video.
+ * @returns The videoId of the YouTube video.
+ */
+function getVideoID(url) {
+  const match = url.match(/.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|live\/|shorts\/)([^#&?]*).*/);
+  if (match !== null && match[1].length === 11) {
+    return match[1];
+  } else {
+    throw new Error("Failed to get youtube video id from the url");
+  }
+}
+
 const fetchYouTubeTool = tool(
+  // Possible errors: Transcripts could be disabled, video ID could be invalid
   async ({ url, language = "en" }) => {
-    const loader = YoutubeLoader.createFromUrl(url, {
+    const loader = new YoutubeLoader({
+      videoId: getVideoID(url),
       language,
       addVideoInfo: true,
     });
     const docs = (await loader.load())[0];
+    // Keep the start and end of the transcript if it's too long
+    const MAX_CHUNK_LEN = 4096;
+    if (docs.pageContent.length > 2 * MAX_CHUNK_LEN) {
+      docs.pageContent = docs.pageContent.slice(0, MAX_CHUNK_LEN) + docs.pageContent.slice(-MAX_CHUNK_LEN);
+    }
     console.log(docs);
-    sendDiscordMessage(`-> ${docs.metadata.title}\n${docs.pageContent.substring(0, 1024)}...`);
+    // sendDiscordMessage(`-> ${docs.metadata.title}\n${docs.pageContent.substring(0, 1024)}...`);
     return JSON.stringify(docs);
   },
   {
     name: "fetch-youtube-video",
-    description: "Fetches the title, description, and transcript of a YouTube video.",
+    description: "Fetches the metadata (title, description, author, etc.) and transcript of a YouTube video.",
     schema: fetchYouTubeSchema,
   },
 );
@@ -177,7 +199,7 @@ const calculatorTool = tool(
     } else {
       throw new Error("Invalid operation.");
     }
-    sendDiscordMessage(`-> ${result}`);
+    // sendDiscordMessage(`-> ${result}`);
     return result;
   },
   {
@@ -241,7 +263,7 @@ async function getResponse(message) {
     if (aiMessage.tool_calls.length !== 0) {
       for (const toolCall of aiMessage.tool_calls) {
         let debugMsg = `[${toolCall.name}] with arguments ${JSON.stringify(toolCall.args).replace("https://", "")}`;
-        sendDiscordMessage(debugMsg);
+        // sendDiscordMessage(debugMsg);
         const selectedTool = toolsByName[toolCall.name];
         const toolMessage = await selectedTool.invoke(toolCall);
         if (toolCall.name === "duckduckgo-search") {
@@ -249,13 +271,13 @@ async function getResponse(message) {
           for (const result of JSON.parse(toolMessage.content)) {
             debugMsg += `[${result.title}](<${result.link}>)\n`;
           }
-          sendDiscordMessage(debugMsg);
+          // sendDiscordMessage(debugMsg);
         } else if (toolCall.name === "image-search") {
           let debugMsg = "->\n";
           for (const result of JSON.parse(toolMessage.content)) {
             debugMsg += `[${result.title}](<${result.imageURL}>)\n`;
           }
-          sendDiscordMessage(debugMsg);
+          // sendDiscordMessage(debugMsg);
         } else if (toolCall.name === "web-browser") {
           console.log(toolMessage.content);
         }

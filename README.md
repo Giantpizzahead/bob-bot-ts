@@ -10,7 +10,7 @@ Installation:
 
 ```sh
 git clone https://github.com/Giantpizzahead/bob-bot.git
-npm i
+npm install
 ```
 
 Environment variables (some required, some optional):
@@ -27,4 +27,10 @@ SUPABASE_PROJECT_PWD = (Unused) Supabase vector store password.
 LANGCHAIN_API_KEY = (Optional) LangChain API key for LangSmith tracing.
 LANGCHAIN_TRACING_V2 = (Optional) Boolean for enabling LangSmith tracing.
 LANGCHAIN_CALLBACKS_BACKGROUND = true
+```
+
+Usage:
+
+```sh
+npm start
 ```
