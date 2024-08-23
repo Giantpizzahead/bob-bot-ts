@@ -11,19 +11,19 @@ const llm = new ChatOpenAI({
   apiKey: process.env.OPENAI_KEY,
   model: "gpt-4o-mini",
   temperature: 1,
-  max_tokens: 256,
-  top_p: 1,
-  frequency_penalty: 0.05,
-  presence_penalty: 0.05,
+  maxTokens: 256,
+  topP: 1,
+  frequencyPenalty: 0.05,
+  presencePenalty: 0.05,
 });
 
 const factualLLM = new ChatOpenAI({
   apiKey: process.env.OPENAI_KEY,
   model: "gpt-4o-mini",
   temperature: 0,
-  max_tokens: 256,
-  frequency_penalty: 0.05,
-  presence_penalty: 0.05,
+  maxTokens: 256,
+  frequencyPenalty: 0.05,
+  presencePenalty: 0.05,
 });
 
 // ===== Web Search =====
@@ -96,7 +96,7 @@ const fetchWebpageTool = tool(
     const result = await browser.invoke(`"${url}","${prompt}"`);
     console.log(result);
     const splitLoc = result.indexOf("### Relevant Links");
-    // sendDiscordMessage(`-> ${result.substring(0, splitLoc)}`);
+    sendDiscordMessage(`-> ${result.substring(0, splitLoc)}`);
     return result;
   },
   {
@@ -146,7 +146,7 @@ const fetchYouTubeTool = tool(
       docs.pageContent = docs.pageContent.slice(0, MAX_CHUNK_LEN) + docs.pageContent.slice(-MAX_CHUNK_LEN);
     }
     console.log(docs);
-    // sendDiscordMessage(`-> ${docs.metadata.title}\n${docs.pageContent.substring(0, 1024)}...`);
+    sendDiscordMessage(`-> ${docs.metadata.title}\n${docs.pageContent.substring(0, 1024)}...`);
     return JSON.stringify(docs);
   },
   {
@@ -199,7 +199,7 @@ const calculatorTool = tool(
     } else {
       throw new Error("Invalid operation.");
     }
-    // sendDiscordMessage(`-> ${result}`);
+    sendDiscordMessage(`-> ${result}`);
     return result;
   },
   {
@@ -263,7 +263,7 @@ async function getResponse(message) {
     if (aiMessage.tool_calls.length !== 0) {
       for (const toolCall of aiMessage.tool_calls) {
         let debugMsg = `[${toolCall.name}] with arguments ${JSON.stringify(toolCall.args).replace("https://", "")}`;
-        // sendDiscordMessage(debugMsg);
+        sendDiscordMessage(debugMsg);
         const selectedTool = toolsByName[toolCall.name];
         const toolMessage = await selectedTool.invoke(toolCall);
         if (toolCall.name === "duckduckgo-search") {
@@ -271,13 +271,13 @@ async function getResponse(message) {
           for (const result of JSON.parse(toolMessage.content)) {
             debugMsg += `[${result.title}](<${result.link}>)\n`;
           }
-          // sendDiscordMessage(debugMsg);
+          sendDiscordMessage(debugMsg);
         } else if (toolCall.name === "image-search") {
           let debugMsg = "->\n";
           for (const result of JSON.parse(toolMessage.content)) {
             debugMsg += `[${result.title}](<${result.imageURL}>)\n`;
           }
-          // sendDiscordMessage(debugMsg);
+          sendDiscordMessage(debugMsg);
         } else if (toolCall.name === "web-browser") {
           console.log(toolMessage.content);
         }

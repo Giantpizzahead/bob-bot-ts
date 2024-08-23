@@ -5,7 +5,7 @@ Wizard Vicuna 7B doesn't look very good, based on https://www.youtube.com/watch?
 Dolphin 2.8 with Mistral is not actually uncensored, it doesn't really understand sexual stuff.
 
 We could fine tune it ourselves: https://www.reddit.com/r/PygmalionAI/comments/132ffwy/nsfw_roleplay_chat_dataset_50k_messages_for/?force_seo=1
-We still have an active subscription on Azure for Students, which can be renewed each year from the Github Student Pack! Has $78 remaining, let's just use that.
+We still have an active subscription on Azure for Students, which can be renewed each year from the Github Student Pack! Let's just use that.
 
 It looks like 4 bit quantized 7B models should fit on ~1 GB of RAM. LM Studio looks like an extension of ollama that is more user friendly (?).
 

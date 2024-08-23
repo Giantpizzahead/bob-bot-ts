@@ -4,7 +4,8 @@ This list will evolve as the bot progresses.
 
 ### Today
 
-- [ ] Try persistent, multi-agent paradigms using other tools
+- [ ] Plan out how Bob will be structured (at a high level) in V2
+- [ ] Archive the JS/TS repository for good code style practice, and start again in a new Python repo
 
 ### Todo
 
@@ -27,10 +28,10 @@ This list will evolve as the bot progresses.
 
 ### Extra Future
 
-- [ ] Choose an easy-to-implement game to play (Chess?)
-- [ ] Choose a medium difficulty game to play (Skrriblio? osu?)
-- [ ] Choose a comprehensive game to play (Minecraft, League?)
-- [ ] Look into a virtual avatar for the bot, and/or how to show video in the first place
+- [ ] Implement the ability to play Chess at a rating > 800, for an easy-to-play (ish) proof of concept
+- [ ] Implement the ability to play Skribbl.io, a medium difficulty game involving images
+- [ ] Implement the ability to play League, a comprehensive, tough game with an anticheat
+- [ ] Begin implementing vtubing functionality for the bot (to stream on Twitch)
 
 ## Completed Tasks
 
@@ -62,6 +63,7 @@ This list will evolve as the bot progresses.
 ### Multi-agent
 
 - [x] Try persistent, multi-agent paradigms in LangGraph
+- [x] Try persistent, multi-agent paradigms using other tools
 
 ### Multimodal
 

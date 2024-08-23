@@ -9,19 +9,19 @@ const llm = new ChatOpenAI({
   apiKey: process.env.OPENAI_KEY,
   model: "gpt-4o-mini",
   temperature: 1,
-  max_tokens: 256,
-  top_p: 1,
-  frequency_penalty: 0.05,
-  presence_penalty: 0.05,
+  maxTokens: 256,
+  topP: 1,
+  frequencyPenalty: 0.05,
+  presencePenalty: 0.05,
 });
 
 const factualLLM = new ChatOpenAI({
   apiKey: process.env.OPENAI_KEY,
   model: "gpt-4o-mini",
   temperature: 0,
-  max_tokens: 256,
-  frequency_penalty: 0.05,
-  presence_penalty: 0.05,
+  maxTokens: 256,
+  frequencyPenalty: 0.05,
+  presencePenalty: 0.05,
 });
 
 // Memory
