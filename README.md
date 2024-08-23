@@ -2,7 +2,7 @@
 
 hi i am bob :D
 
-(WIP, see `TODO.md`)
+(this is the old TypeScript version - newer versions will be in Python / a different repo)
 
 ## Setup
 
