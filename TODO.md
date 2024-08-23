@@ -5,7 +5,6 @@ This list will evolve as the bot progresses.
 ### Today
 
 - [ ] Plan out how Bob will be structured (at a high level) in V2
-- [ ] Archive the JS/TS repository for good code style practice, and start again in a new Python repo
 
 ### Todo
 
@@ -76,6 +75,7 @@ This list will evolve as the bot progresses.
 - [x] Setup TypeScript, ESLint, and Prettier following https://typescript-eslint.io/getting-started/
 - [x] Setup testing and CI / CD with Github and Vitest following https://vitest.dev/
 - [x] Cleanup/move repository from Heroku to Github, then deploy to Heroku
+- [X] Archive the JS/TS repository for good code style practice, and start again in a new Python repo
 
 ## Milestones and Capstones
 
